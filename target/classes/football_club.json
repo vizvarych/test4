@@ -1,0 +1,28 @@
+{
+  "football_club": [
+    {
+      "club_name": "Arsenal",
+      "coach_name": "Unai Emery",
+      "city": "London",
+      "founded": "1886"
+    },
+    {
+      "club_name": "Barselona",
+      "coach_name": "Ernesto Valverde",
+      "city": "Barselona",
+      "founded": null
+    },
+    {
+      "club_name": "Karpaty",
+      "coach_name": "Fabriciano Gonzalez",
+      "city": "Lviv",
+      "founded": "1963"
+    },
+    {
+      "club_name": "Gennaro Gattusso",
+      "team_name": "Milan",
+      "city": "Milan",
+      "founded": "1899"
+    }
+  ]
+}
